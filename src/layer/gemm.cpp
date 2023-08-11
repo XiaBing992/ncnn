@@ -14,6 +14,10 @@
 
 #include "gemm.h"
 
+#include <iostream>
+
+using namespace std;
+
 namespace ncnn {
 
 Gemm::Gemm()
